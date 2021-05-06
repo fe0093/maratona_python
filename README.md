@@ -56,7 +56,7 @@ URI 1001
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Viictorreiss](https://github.com/Viictorreiss) - 
+- [@FelipeAffonsoBoschetti](https://github.com/fe0093) - 
 Participant
 - [@RodrigoBossini]() - Marathon Teacher
 
